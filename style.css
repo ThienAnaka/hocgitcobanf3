@@ -4,5 +4,9 @@
   box-sizing: border-box;
 }
 h1 {
+<<<<<<< HEAD
   color: orange;
+=======
+  color: red;
+>>>>>>> ab0c27649cada1bbcd89ab0c733eec8769bb48dc
 }
